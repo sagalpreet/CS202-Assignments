@@ -1,0 +1,4 @@
+red
+pickup
+trucke
+$500
